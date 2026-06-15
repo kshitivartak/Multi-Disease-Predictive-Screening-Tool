@@ -1,4 +1,4 @@
-<img width="1253" height="555" alt="image" src="https://github.com/user-attachments/assets/52d6a9ac-b190-4cbd-8e18-609fc09b8ce8" /><img width="1253" height="555" alt="image" src="https://github.com/user-attachments/assets/9d862051-bf3d-451f-8ddb-c37eebaf5a24" /># Multi-Disease-Predictive-Screening-Tool
+# Multi-Disease-Predictive-Screening-Tool
 A machine learning-based decision-support tool for ASHA workers to perform non-invasive screening of heart disease, diabetes, and anemia. Using basic patient data, it predicts risk levels, enabling early detection and timely medical intervention in rural areas.
 <img width="836" height="435" alt="image" src="https://github.com/user-attachments/assets/dbb5a31c-3903-4129-84c4-648d77bcb6d7" />
 
