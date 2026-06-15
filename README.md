@@ -3,6 +3,9 @@ A machine learning-based decision-support tool for ASHA workers to perform non-i
 <img width="836" height="435" alt="image" src="https://github.com/user-attachments/assets/dbb5a31c-3903-4129-84c4-648d77bcb6d7" />
 
 
+### Motivation: 
+Rural and underserved communities often face challenges in healthcare access, leading to delayed diagnoses of chronic and lifestyle-related diseases. Empowering community health workers like ASHA workers with accessible technology can bridge this gap, enabling proactive and preventative healthcare. This project is motivated by the need for a simple, reliable, and multi-faceted screening tool that can assess risk for several key health issues simultaneously, optimizing the efficiency of on-ground health initiatives.
+
 ### Tools:
 -Anaconda Distribution: For managing the Python environment and packages.
 -Jupyter Notebook: For initial data exploration, cleaning, and model training.
