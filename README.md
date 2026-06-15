@@ -1,4 +1,4 @@
-<img width="1253" height="555" alt="image" src="https://github.com/user-attachments/assets/9d862051-bf3d-451f-8ddb-c37eebaf5a24" /># Multi-Disease-Predictive-Screening-Tool
+<img width="1253" height="555" alt="image" src="https://github.com/user-attachments/assets/52d6a9ac-b190-4cbd-8e18-609fc09b8ce8" /><img width="1253" height="555" alt="image" src="https://github.com/user-attachments/assets/9d862051-bf3d-451f-8ddb-c37eebaf5a24" /># Multi-Disease-Predictive-Screening-Tool
 A machine learning-based decision-support tool for ASHA workers to perform non-invasive screening of heart disease, diabetes, and anemia. Using basic patient data, it predicts risk levels, enabling early detection and timely medical intervention in rural areas.
 <img width="836" height="435" alt="image" src="https://github.com/user-attachments/assets/dbb5a31c-3903-4129-84c4-648d77bcb6d7" />
 
@@ -33,18 +33,18 @@ All coding was done in Python 3.9 within an isolated Conda virtual environment (
 ## Dashborad
 ### **Basic Info Dashboard**
 <img width="1253" height="480" alt="image" src="https://github.com/user-attachments/assets/71c0c05a-af58-4a05-8782-1e5dcc12bb47" />
-### Advanced Info Dashboard
+### **Advanced Info Dashboard**
 <img width="1253" height="555" alt="image" src="https://github.com/user-attachments/assets/6a2a82f3-5ddc-4a2f-bca8-e2edb3af74fd" />
-### Add Patient Info in Database
+### **Add Patient Info in Database**
 <img width="1253" height="566" alt="image" src="https://github.com/user-attachments/assets/9ecfc5c5-2de9-4f35-baf6-b143dfb013e8" />
-### View Patient Info History
+### **View Patient Info History**
 <img width="1253" height="236" alt="image" src="https://github.com/user-attachments/assets/b7ef7709-33ff-4de6-9014-7b078d265796" />
-### Health Recommendation
+### **Health Recommendation**
 <img width="1253" height="599" alt="image" src="https://github.com/user-attachments/assets/e41acaf1-d80d-4d86-93b6-6d75b9d78cf4" />
-### Dataset Used Info
+### **Dataset Used Info**
 <img width="1253" height="236" alt="image" src="https://github.com/user-attachments/assets/0f4b963c-8a4e-43e0-8b79-9917e32aba3b" />
 <img width="1253" height="580" alt="image" src="https://github.com/user-attachments/assets/c785682d-6db5-4bbc-99de-e7a1eb99885a" />
-### Project Info
+### **Project Info**
 <img width="1253" height="555" alt="image" src="https://github.com/user-attachments/assets/d4f98afe-39a0-443f-996d-9fc6ebc0425f" />
 
 
